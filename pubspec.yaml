@@ -1,0 +1,7 @@
+name: random_date
+description: A sample command-line application
+dependencies:
+  intl: any
+
+#dependencies:
+#  unittest: any
